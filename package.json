@@ -1,0 +1,29 @@
+{
+  "name": "stream180425",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TanTrinh/stream180425.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TanTrinh/stream180425/issues"
+  },
+  "homepage": "https://github.com/TanTrinh/stream180425#readme",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "peerjs": "^0.3.14",
+    "uid": "0.0.2",
+    "webpack": "^4.6.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^2.0.14"
+  }
+}
